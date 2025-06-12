@@ -1,0 +1,19 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+h1
+{
+    text-align: center;
+    color: #333;
+    font-family: Arial, sans-serif;
+    background-color: blue;
+}
+body
+{
+
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC9LnOyWgcHiK_EOYoGCgXlTtVfOkL1RiZCzGdSd5_8_4TXpwWgRk65DU&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
